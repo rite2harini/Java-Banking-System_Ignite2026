@@ -1,21 +1,16 @@
 /*
-ATM SIMULATION
+ADVANCED CHALLENGE
 
-FEATURES
+Convert your Banking System into an ATM.
+
+Features:
 
 PIN Verification
-
 Deposit
-
 Withdraw
-
 Balance Check
-
-Mini Statement
-
 Exit
 
-BONUS
-
-Lock account after 3 failed attempts.
+Bonus:
+Lock account after 3 incorrect attempts.
 */
